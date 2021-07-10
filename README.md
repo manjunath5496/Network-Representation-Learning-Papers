@@ -139,7 +139,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(77).pdf" style="text-decoration:none;">Interaction Embeddings for Prediction and Explanation in Knowledge Graphs</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(78).pdf" style="text-decoration:none;">Dual Graph Aention Networks for Deep Latent Representation of Multifaceted Social Eects in Recommender Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(78).pdf" style="text-decoration:none;">Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(79).pdf" style="text-decoration:none;">DDGK: Learning Graph Representations for Deep Divergence Graph Kernels</a></li>
 
 
