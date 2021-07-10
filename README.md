@@ -265,7 +265,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(143).pdf" style="text-decoration:none;">Deep Inductive Network Representation Learning</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(144).pdf" style="text-decoration:none;">Structural Deep Network Embedding</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(145).pdf" style="text-decoration:none;">SIDE: Representation Learning in Signed Directed Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(146).pdf" style="text-decoration:none;">Aributed Signed Network Embedding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(146).pdf" style="text-decoration:none;">Attributed Signed Network Embedding</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(147).pdf" style="text-decoration:none;">Network Embedding with Completely-imbalanced Labels</a></li>
 
