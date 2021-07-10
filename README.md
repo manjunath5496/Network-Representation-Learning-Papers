@@ -233,61 +233,53 @@
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(125).pdf" style="text-decoration:none;">Low-dimensional statistical manifold embedding of directed graphs</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(126).pdf" style="text-decoration:none;">On the Feasibility of Peer-to-PeerWeb Indexing and Search</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(126).pdf" style="text-decoration:none;">Disentangled Graph Convolutional Networks</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(127).pdf" style="text-decoration:none;">Packrat Parsing:
-a Practical Linear-Time Algorithm with Backtracking</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(127).pdf" style="text-decoration:none;">Stochastic Blockmodels meet Graph Neural Networks</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(128).pdf" style="text-decoration:none;">Packrat Parsing:
-Simple, Powerful, Lazy, Linear Time</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(128).pdf" style="text-decoration:none;">Multi-Dimensional Network Embedding with Hierarchical Structure</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(129).pdf" style="text-decoration:none;">Parsing Expression Grammars:
-A Recognition-Based Syntactic Foundation</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(129).pdf" style="text-decoration:none;">Improve Network Embeddings with Regularization</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(130).pdf" style="text-decoration:none;">Pastwatch: a Distributed Version Control System </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(130).pdf" style="text-decoration:none;">Arbitrary-Order Proximity Preserved Network Embedding</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(131).pdf" style="text-decoration:none;">Easy Freshness with Pequod Cache Joins</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(131).pdf" style="text-decoration:none;">Community Preserving Network Embedding</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(132).pdf" style="text-decoration:none;">Deep Variational Network Embedding in Wasserstein Space</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
-File and Storage Technologies</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(133).pdf" style="text-decoration:none;">Incorporating Network Embedding into Markov Random Field for Better Community Detection</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(134).pdf" style="text-decoration:none;">Providing Asynchronous File I/O
-for the Plan 9 Operating System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(134).pdf" style="text-decoration:none;">Deep Recursive Network Embedding with Regular Equivalence</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(135).pdf" style="text-decoration:none;">Efficient patch-based auditing for web application vulnerabilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(135).pdf" style="text-decoration:none;">Scalable Optimization for Embedding Highly-Dynamic and Recency-Sensitive Data</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(136).pdf" style="text-decoration:none;">Prolac: a language for protocol compilation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(137).pdf" style="text-decoration:none;">Flexible and Efficient Sharing of Protected Abstractions</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(138).pdf" style="text-decoration:none;">Retroactive Auditing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(139).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(140).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications (revised 2014-08-05)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(136).pdf" style="text-decoration:none;">Hierarchical Taxonomy Aware Network Embedding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(137).pdf" style="text-decoration:none;">N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(138).pdf" style="text-decoration:none;">Dynamic Embeddings for User Profiling in Twitter</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(139).pdf" style="text-decoration:none;">Structural Neighborhood Based Classification of Nodes in a Network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(140).pdf" style="text-decoration:none;">GMNN: Graph Markov Neural Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(141).pdf" style="text-decoration:none;"> Identifying information disclosure in web applications with retroactive auditing</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(142).pdf" style="text-decoration:none;">Optimizing RAM-latency Dominated Applications</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(143).pdf" style="text-decoration:none;">ScaleFS: A Multicore-Scalable File System</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(144).pdf" style="text-decoration:none;">WhanauSIP: A Secure Peer-to-Peer
-Communications Platform</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(145).pdf" style="text-decoration:none;">Scalable Address Spaces Using RCU Balanced Trees</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(146).pdf" style="text-decoration:none;">Intrusion Recovery Using Selective Re-execution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(141).pdf" style="text-decoration:none;"> RaRE: Social Rank Regulated Large-scale Network Embedding</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(142).pdf" style="text-decoration:none;">node2vec: Scalable Feature Learning for Networks</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(143).pdf" style="text-decoration:none;">Deep Inductive Network Representation Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(144).pdf" style="text-decoration:none;">Structural Deep Network Embedding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(145).pdf" style="text-decoration:none;">SIDE: Representation Learning in Signed Directed Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(146).pdf" style="text-decoration:none;">Aributed Signed Network Embedding</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(147).pdf" style="text-decoration:none;">Modular Components for Network Address Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(147).pdf" style="text-decoration:none;">Network Embedding with Completely-imbalanced Labels</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(148).pdf" style="text-decoration:none;">An Extension-Oriented Compiler</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(148).pdf" style="text-decoration:none;">Co-embedding Attributed Networks</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(149).pdf" style="text-decoration:none;">Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
-using an operation log</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(150).pdf" style="text-decoration:none;">Simplifying Graph Convolutional Networks</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(151).pdf" style="text-decoration:none;">A Software Approach to Unifying Multicore Caches </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(151).pdf" style="text-decoration:none;">Co-Regularized Deep Multi-Network Embedding </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(152).pdf" style="text-decoration:none;">Self-Certifying File System Implementation for Windows </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(153).pdf" style="text-decoration:none;">Flexible Key Management with SFS Agents</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(154).pdf" style="text-decoration:none;">Access Control Lists for the Self-Certifying
-Filesystem</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(152).pdf" style="text-decoration:none;">Gromov-Wasserstein Learning for Graph Matching and Node Embedding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(153).pdf" style="text-decoration:none;">Revisiting Semi-Supervised Learning with Graph Embeddings</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Network-Representation-Learning-Papers/blob/master/n(154).pdf" style="text-decoration:none;">Position-aware Graph Neural Networks</a></li> 
  
 
    </ul>
